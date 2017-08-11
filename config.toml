@@ -1,0 +1,19 @@
+[mysql]
+	[mysql.etvm]
+	host = "10.10.72.64"
+	port = 3306
+	username = "root"
+	password = "tvmining@123"
+	database = "etvm"
+
+	[mysql.ejob]
+	host = "10.10.72.64"
+	port = 3306
+	username = "root"
+	password = "tvmining@123"
+	database = "ejob"
+
+[influxDB]
+server = "127.0.0.1"
+username = "shouqiang"
+password = "shouqiang"
